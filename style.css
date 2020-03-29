@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(119, 119, 204);
+}
+a{
+    color: rgb(34, 214, 94);
+}
+#title{
+    text-align: center;
+    color:white;
+}
+#Des{
+    color: rgb(12, 4, 3);
+}
